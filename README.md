@@ -1,7 +1,5 @@
 # TeamBitsAndBytes_NewsAggregator
 It is a web application which aggregates data (news articles) from multiple websites. Then presents the data in one location.
-link to the live website (hosted on heroku)->
-https://newsatlasx.herokuapp.com/
 
 So, our news aggregator works in 3 steps: 
 A. It scrapes the web for the articles. (In this Django project, we are scraping websites called  Time of India and Outlook India.) 
